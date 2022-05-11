@@ -1,2 +1,2 @@
 # kafkaclient
-Spring boot project for Kafka consumer using Confluent Kafka docker compose
+Spring boot project for Kafka consumer using Confluent Kafka docker-compose.yml
